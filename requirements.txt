@@ -1,2 +1,4 @@
-flask 
+flask
 groq
+requests
+flask-cors
